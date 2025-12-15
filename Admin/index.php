@@ -46,7 +46,7 @@
       </div>
 
       <div class="form-group">
-        <label for="password">Mật Khẩu</label>
+        <label for="password">Mật Khẩu 1</label>
         <input type="password" placeholder="Nhập mật khẩu" name="password" required>
       </div>
 
